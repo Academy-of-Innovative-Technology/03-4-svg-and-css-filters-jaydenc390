@@ -6,3 +6,11 @@ html {
 img {
   width: 100px;
 }
+
+path {
+  filter: url("#filter");
+}
+
+path {
+  filter: url("#filter2");
+}
